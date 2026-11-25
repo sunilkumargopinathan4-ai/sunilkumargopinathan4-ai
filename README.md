@@ -1,41 +1,60 @@
 
 ## 🚀 Portfolio Projects
 
-### [E-Commerce Test Automation Framework](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation)
+### 🛒 E-Commerce Test Automation Framework
 
-**Status:** 🟢 In Development — Initial Framework Implemented
+**Status:** ✅ Completed — Successfully Verified Locally and in CI
 
-**Technology Stack:** Java 21, Selenium WebDriver, TestNG, Maven, Page Object Model, Git and GitHub
+An independent end-to-end UI and API test automation
+framework developed for an e-commerce application,
+following industry-standard automation practices.
 
-#### Implemented Features
+#### 🛠️ Technology Stack
 
-- ✅ Maven-based automation framework
-- ✅ Reusable browser setup and teardown
-- ✅ DriverFactory implementation
-- ✅ Externalized configuration management
-- ✅ Page Object Model architecture
-- ✅ Reusable explicit wait methods
-- ✅ Homepage smoke test successfully executed
-- ✅ Source code published on GitHub
+- Java 21
+- Selenium WebDriver
+- TestNG
+- Maven
+- REST Assured
+- Page Object Model (POM)
+- Allure Reporting
+- Git & GitHub
+- GitHub Actions (CI)
 
-#### Latest Verified Test Results
+#### ✨ Key Features
+
+- Modular and reusable automation framework
+- Data-driven testing using TestNG DataProvider
+- Dynamic test data generation
+- User registration, login and logout automation
+- Product search and shopping cart validation
+- End-to-end checkout and demo payment testing
+- REST API automation and response validation
+- Explicit waits and configuration management
+- Automatic failure screenshot capture
+- Interactive Allure test reports
+- Headless Chrome execution
+- Automated GitHub Actions pipeline
+- Pre-execution application health check
+
+#### 📊 Verified Execution Results
 
 | Metric | Result |
-|---|---|
-| Tests Executed | 1 |
-| Passed | 1 |
+|---|---:|
+| Selenium UI Tests | 12 |
+| REST API Tests | 5 |
+| Total Test Executions | 17 |
+| Passed | 17 |
 | Failed | 0 |
-| Build Status | SUCCESS |
+| Verified Pass Rate | 100% |
+| Local Execution | ✅ Successful |
+| Cloud Execution | ✅ Successful |
+| Allure Reporting | ✅ Successful |
 
-#### Upcoming Enhancements
+[![E-Commerce Automation Suite](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation/actions/workflows/automation.yml/badge.svg)](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation/actions/workflows/automation.yml)
 
-- Login and registration automation
-- Product search and cart validation
-- End-to-end checkout automation
-- Data-driven testing
-- REST Assured API automation
-- Allure test reporting
-- Cross-browser testing
-- Continuous integration using GitHub Actions
+🔗 [View Project Repository](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation)
 
-[View Source Code and Project Documentation](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation)
+📈 [View Successful CI Execution](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation/actions/runs/45616710687)
+
+---
