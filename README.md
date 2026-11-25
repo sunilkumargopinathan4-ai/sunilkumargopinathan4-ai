@@ -1,84 +1,41 @@
 
-# Hi, I'm Sunil Kumar G 👋
-
-### QA Automation Engineer | Software Testing | Mobile & API Automation
-
-Quality Engineer with 1.4+ years of experience in enterprise software testing within the Banking and Financial Services (BFSI) domain.
-
-Passionate about software quality, automation frameworks, API testing and continuous learning.
-
-## 💼 Professional Experience
-
-- Software Testing and Quality Engineering at Artech Infosystems, deputed to IBM
-- Experience in the PNC Mobile Banking Redesign project
-- Android and iOS mobile application testing
-- Mobile automation using Python, Appium, Pytest and BDD
-- REST API testing using Postman
-- Functional, Regression, Integration and End-to-End Testing
-- Accessibility testing and defect management
-- Logged and tracked 250+ defects using Jira
-
-## 🛠️ Technical Skills
-
-| Category | Technologies |
-| --- | --- |
-| Programming | Python |
-| Mobile Automation | Appium, Pytest, Pytest-BDD |
-| API Testing | Postman, REST APIs, JSON |
-| Frameworks | BDD, Gherkin, Page Object Model |
-| Testing Tools | Jira, Sauce Labs, PyCharm |
-| Platforms | Android, iOS |
-| Methodologies | Agile, Scrum, SDLC, STLC |
-| Accessibility | VoiceOver, TalkBack, Voice Control, Switch Access |
-
-## 🌱 Currently Learning & Building
-
-- Java
-- Selenium WebDriver
-- TestNG
-- Maven
-- SQL
-- REST Assured
-- Git and GitHub
-- GitHub Actions
-- Playwright
-
 ## 🚀 Portfolio Projects
 
-### E-Commerce Test Automation Framework
+### [E-Commerce Test Automation Framework](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation)
 
-**Status:** Planned
+**Status:** 🟢 In Development — Initial Framework Implemented
 
-**Technology Stack:** Java, Selenium WebDriver, TestNG, Maven, REST Assured
+**Technology Stack:** Java 21, Selenium WebDriver, TestNG, Maven, Page Object Model, Git and GitHub
 
-Planned features:
+#### Implemented Features
 
-- End-to-end web automation
-- Page Object Model architecture
+- ✅ Maven-based automation framework
+- ✅ Reusable browser setup and teardown
+- ✅ DriverFactory implementation
+- ✅ Externalized configuration management
+- ✅ Page Object Model architecture
+- ✅ Reusable explicit wait methods
+- ✅ Homepage smoke test successfully executed
+- ✅ Source code published on GitHub
+
+#### Latest Verified Test Results
+
+| Metric | Result |
+|---|---|
+| Tests Executed | 1 |
+| Passed | 1 |
+| Failed | 0 |
+| Build Status | SUCCESS |
+
+#### Upcoming Enhancements
+
+- Login and registration automation
+- Product search and cart validation
+- End-to-end checkout automation
 - Data-driven testing
-- Positive and negative test scenarios
-- API automation
-- Automated test reporting
-- Continuous integration with GitHub Actions
+- REST Assured API automation
+- Allure test reporting
+- Cross-browser testing
+- Continuous integration using GitHub Actions
 
-## 🏆 Recognition & Certifications
-
-- PNC Mobile Accessibility QE – Tier II Recognition (2026)
-- Oracle Cloud Infrastructure AI Foundations Associate (2025)
-- Oracle Cloud Infrastructure Foundations Associate (2023)
-
-## 🎯 Career Interests
-
-- QA Automation Engineering
-- Software Development Engineer in Test (SDET)
-- Mobile and Web Automation
-- API Automation
-- Quality Engineering
-
-## 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/sunilkumarg01217/)
-
----
-
-*Building reliable software through quality engineering, automation and continuous improvement.*
+[View Source Code and Project Documentation](https://github.com/sunilkumargopinathan4-ai/selenium-ecommerce-automation)
